@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Metod-CirkelnsOmkreats-Area/1.0.0": {
+        "runtime": {
+          "Metod-CirkelnsOmkreats-Area.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metod-CirkelnsOmkreats-Area/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

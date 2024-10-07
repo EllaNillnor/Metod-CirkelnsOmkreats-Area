@@ -1,0 +1,14 @@
+C:\Github\Metod-CirkelnsOmkreats-Area\bin\Debug\net8.0\Metod-CirkelnsOmkreats-Area.exe
+C:\Github\Metod-CirkelnsOmkreats-Area\bin\Debug\net8.0\Metod-CirkelnsOmkreats-Area.deps.json
+C:\Github\Metod-CirkelnsOmkreats-Area\bin\Debug\net8.0\Metod-CirkelnsOmkreats-Area.runtimeconfig.json
+C:\Github\Metod-CirkelnsOmkreats-Area\bin\Debug\net8.0\Metod-CirkelnsOmkreats-Area.dll
+C:\Github\Metod-CirkelnsOmkreats-Area\bin\Debug\net8.0\Metod-CirkelnsOmkreats-Area.pdb
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\Metod-CirkelnsOmkreats-Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\Metod-CirkelnsOmkreats-Area.AssemblyInfoInputs.cache
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\Metod-CirkelnsOmkreats-Area.AssemblyInfo.cs
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\Metod-CirkelnsOmkreats-Area.csproj.CoreCompileInputs.cache
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\Metod-CirkelnsOmkreats-Area.dll
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\refint\Metod-CirkelnsOmkreats-Area.dll
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\Metod-CirkelnsOmkreats-Area.pdb
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\Metod-CirkelnsOmkreats-Area.genruntimeconfig.cache
+C:\Github\Metod-CirkelnsOmkreats-Area\obj\Debug\net8.0\ref\Metod-CirkelnsOmkreats-Area.dll
